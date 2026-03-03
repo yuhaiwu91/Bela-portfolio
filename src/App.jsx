@@ -1,4 +1,5 @@
 import { useEffect, useRef } from 'react'
+import avatarSrc from '../touxiang.png'
 
 /* ── 数据 ── */
 const games = [
@@ -167,7 +168,7 @@ export default function App() {
             <div className="absolute -inset-3 rounded-full bg-gradient-to-r from-purple-600 via-cyan-500 to-pink-600 opacity-60 blur-lg animate-pulse" />
             <div className="absolute -inset-1 rounded-full bg-gradient-to-r from-purple-500 via-cyan-400 to-pink-500 opacity-80" />
             <img
-              src="/touxiang.png"
+              src={avatarSrc}
               alt="Bela"
               className="relative w-28 h-28 sm:w-36 sm:h-36 rounded-full object-cover border-2 border-white/20"
             />
