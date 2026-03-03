@@ -64,6 +64,9 @@ npm run build
 | 疯狂8点 | https://crazy-eights.co-me-ai.xyz/ |
 | 新星防御 | https://tower-defense.co-me-ai.xyz/ |
 | 数块消除 | https://math-match.co-me-ai.xyz/ |
+| 跳动爱心 | https://beating-heart.co-me-ai.xyz/ |
+| 星际先锋 | https://star-craft.co-me-ai.xyz/ |
+| 色敏挑战 | https://colour-sensitivity.co-me-ai.xyz/ |
 
 ### AI 应用
 | 名称 | 链接 |

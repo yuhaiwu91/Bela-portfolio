@@ -30,6 +30,33 @@ const games = [
     glow: 'shadow-green-500/50',
     border: 'border-green-500/30',
   },
+  {
+    title: '跳动爱心',
+    desc: '感受爱心的律动，治愈又解压！',
+    url: 'https://beating-heart.co-me-ai.xyz/',
+    icon: '❤️',
+    color: 'from-rose-600 to-pink-600',
+    glow: 'shadow-rose-500/50',
+    border: 'border-rose-500/30',
+  },
+  {
+    title: '星际先锋',
+    desc: '驾驶飞船，征战浩瀚星海！',
+    url: 'https://star-craft.co-me-ai.xyz/',
+    icon: '🌌',
+    color: 'from-indigo-600 to-violet-600',
+    glow: 'shadow-indigo-500/50',
+    border: 'border-indigo-500/30',
+  },
+  {
+    title: '色敏挑战',
+    desc: '考验你的色彩感知力，你能分辨出来吗？',
+    url: 'https://colour-sensitivity.co-me-ai.xyz/',
+    icon: '🎨',
+    color: 'from-amber-500 to-orange-600',
+    glow: 'shadow-amber-500/50',
+    border: 'border-amber-500/30',
+  },
 ]
 
 const apps = [
