@@ -1,4 +1,4 @@
-# Bela的AI作品集
+# Bella的AI作品集
 
 > 个人 AI 作品集网站，展示 AI 游戏、AI 应用与 AI 视频。
 

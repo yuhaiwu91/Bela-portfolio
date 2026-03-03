@@ -169,14 +169,14 @@ export default function App() {
             <div className="absolute -inset-1 rounded-full bg-gradient-to-r from-purple-500 via-cyan-400 to-pink-500 opacity-80" />
             <img
               src={avatarSrc}
-              alt="Bela"
+              alt="Bella"
               className="relative w-28 h-28 sm:w-36 sm:h-36 rounded-full object-cover border-2 border-white/20"
             />
           </div>
 
           {/* 主标题 */}
-          <h1 className="glitch-title text-4xl sm:text-5xl lg:text-6xl font-black mb-4 leading-tight" data-text="Bela的AI作品集">
-            Bela的AI作品集
+          <h1 className="glitch-title text-4xl sm:text-5xl lg:text-6xl font-black mb-4 leading-tight" data-text="Bella的AI作品集">
+            Bella的AI作品集
           </h1>
 
           {/* 副标题 */}
@@ -235,7 +235,7 @@ export default function App() {
           <p>
             Made with&nbsp;
             <span className="text-pink-500">❤️</span>
-            &nbsp;by Bela &amp; AI &nbsp;·&nbsp; {new Date().getFullYear()}
+            &nbsp;by Bella &amp; AI &nbsp;·&nbsp; {new Date().getFullYear()}
           </p>
         </footer>
       </div>
